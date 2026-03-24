@@ -1,4 +1,23 @@
-## Hi there 👋
+## Hi there! 👋
+
+## About me
+
+I'm a Software engineer and I like to automate and build tools.
+
+- Currently working as a Software Developer @FordMotorCompany
+- Previously worked as DevOps Engineer @SiliconLabs 
+
+## Tools/Languages
+- Python
+- Docker
+- Terraform
+- Github Actions
+- Jenkins
+- GCP
+- AWS
+- AI tools
+
+
 
 <!--
 **UtkarshaPampatwar/UtkarshaPampatwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
